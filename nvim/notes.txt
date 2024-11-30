@@ -1,0 +1,2 @@
+:messages " To see old status messages in vim
+:checkhealth " shows mason healthchecks, and gives warnings on why things may not be working
